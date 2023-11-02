@@ -1,0 +1,12 @@
+.div1{
+    border: 2px solid red ;
+    height: 20vh;
+    width: 20vw;
+    margin: auto;
+}
+.div2 {
+    height: 5vh;
+    width: 5vw;
+    margin: auto;
+    padding-top: 20px;
+}

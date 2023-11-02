@@ -1,0 +1,26 @@
+.nav11{
+    height: 5vh;
+    width: 100vw;
+    background-color: rgb(15, 218, 218);
+    color: black;
+    text-align: center;
+}
+button{
+    background-color: aqua;
+}
+.text_div{
+
+}
+.text1{
+    height: 20vh;
+    width: 60vw;
+    margin-left: 300px;
+}
+.sav{
+    height: 20vh;
+    width: 20vw;
+    display: inline-block;
+    margin-left: 300px;
+    border: 2px solid yellow;
+}
+
