@@ -1,0 +1,17 @@
+export default [
+    {pid:101, pname: "Himalya Cool" ,price:23000, image: 'imgs/ac1.png'},
+    {pid:102, pname: "Cool Master" ,price:22000, image: 'imgs/ac2.jpeg'},
+    {pid:103, pname: "Voltas V1" ,price:25630, image: 'imgs/ac3.jpeg'},
+    {pid:104, pname: "Bajaj Super",price:2399 , image: 'imgs/fan1.jpeg'},
+    {pid:105, pname: "Usha A1" ,price:2456, image: 'imgs/fan2.jpeg'},
+    {pid:106, pname: "Orient PSPO",price:1300,  image: 'imgs/fan3.jpeg'},
+    {pid:107, pname: "Samsung L1" ,price:13000, image: 'imgs/fri1.jpeg'},
+    {pid:108, pname: "LG Smart" ,price:14900, image: 'imgs/fri2.jpeg'},
+    {pid:109, pname: "Haier H2" ,price:24000, image: 'imgs/fri3.jpeg'},
+    {pid:110, pname: "Campus F1" ,price:2399, image: 'imgs/shoes1.jpeg'},
+    {pid:111, pname: "Nike N2" ,price:1399, image: 'imgs/shoes2.jpeg'},
+    {pid:112, pname: "Adidas AA1" ,price:2000, image: 'imgs/shoes3.jpeg'},
+    {pid:113, pname: "Sony OLED" , price:14799,image: 'imgs/tv1.jpeg'},
+    {pid:114, pname: "Panasonic P1" ,price:15200, image: 'imgs/tv2.jpeg'},
+    {pid:115, pname: "Mi Mq" ,price:42600, image: 'imgs/tv3.jpeg'},
+]
